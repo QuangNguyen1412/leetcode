@@ -11,3 +11,6 @@ If you found a solution with better performance please feel free to reach out an
 
 ## [HashMap](https://github.com/QuangNguyen1412/leetcode/tree/main/exploration/hashMap)
 ![Hash Map performance](https://github.com/QuangNguyen1412/leetcode/blob/main/exploration/hashMap/hashMapPerformance.JPG?raw=true)
+
+## [HappyNumber](https://github.com/QuangNguyen1412/leetcode/tree/main/exploration/happyNumber)
+![Hash Map performance](https://github.com/QuangNguyen1412/leetcode/blob/main/exploration/happyNumber/performance.JPG?raw=true)
